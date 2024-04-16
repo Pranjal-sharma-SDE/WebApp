@@ -1,0 +1,6 @@
+flask
+deepface
+pandas
+numpy
+tf-keras
+gunicorn
